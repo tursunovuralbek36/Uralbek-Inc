@@ -5,5 +5,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     width: 100%;
     z-index: 1;
     top: 0;
-    ba
+    background: #fff;
+    box-shadow: ;
 }
